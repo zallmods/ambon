@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 9090;
 
 // Load data
 const methods = require('./methods9.json');
