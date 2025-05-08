@@ -1,0 +1,14 @@
+{
+  "ambon": {
+    "max_time": 100,
+    "cooldown": 60,
+    "concurrent": 1,
+    "expiry_days": 30
+  },
+  "isalganteng": {
+    "max_time": 1000,
+    "cooldown": 30,
+    "concurrent": 1,
+    "expiry_days": 30
+  }
+}
