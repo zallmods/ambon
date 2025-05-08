@@ -5,9 +5,9 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 // Load data
-const methods = require('./methods.json');
-const keys = require('./key.json');
-const config = require('./config.json');
+const methods = require('./methods9.json');
+const keys = require('./key9.json');
+const config = require('./config9.json');
 
 // Define servers directly in the code instead of loading from servers.json
 const servers = [
